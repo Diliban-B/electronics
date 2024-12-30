@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/avr/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64/avr8-gnu-toolchain-win32_x86_64/avr/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "__AVR_ATmega328P__",
+        "F_CPU=16000000UL"
+            ],
+            "windowsSdkVersion": "10.0.17763.0",
+            "compilerPath": "cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
